@@ -16,9 +16,10 @@
 
 1. (旅游领域) Zhu et al., Pre-training Language Model Incorporating Domain-specific Heterogeneous Knowledge into A Unified Representation. Expert Systems with Applications, 2022  
 1. (AIoT领域) Zhu et al., A Collaborative AI-Enabled Pretrained Language Model for AIoT Domain Question Answering. IEEE Transactions on Industrial Informatics, 2021  
+1. Zhu. 融合常识与领域知识的预训练语言模型关键技术研究, 2022
 1. 发明专利：一种文本检测方法、装置、设备、介质及系统  
-1. 发明专利：一种图像检测方法、装置、设备、介质及系统  
-5. 发明专利：一种文本信息处理方法、装置、设备、介质及系统  
+1. 发明专利：图像检测方法、装置、电子设备及计算机可读存储介质  
+5. 发明专利：一种文本信息处理方法、系统、设备及计算机存储介质  
 6. 发明专利：一种多模态信息处理方法、装置、设备、介质及系统
 
 
@@ -46,4 +47,6 @@
 4. Zhu et al., Relation Inference and Type Identification Based on Brain Knowledge Graph. BIH, 2016  
 5. Zeng et al., User Interests Analysis and Its Application on the Linked Brain Data Platform. BIH, 2016  
 6. Zhu et al., Brain Knowledge Engine. Advances in Neuroinformatics IV. AINI 2016. Conference Abstract: Demonstration Session  
+1. Zhu. 基于神经科学文献感兴趣片段的跨物种脑认知知识图谱自动构建. 2020
+1. Zhu. 面向认知功能的脑区环路知识图谱自动构建. 2017
 7. 发明专利：一种脑科学文献处理方法、装置、设备、介质及系统  
