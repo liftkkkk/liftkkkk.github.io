@@ -28,10 +28,10 @@
 1. Zhu et al., SwitchNet: A modular neural network for adaptive relation extraction. Computers and Electrical Engineering, 2022  
 2. Xie et al., Construction of Multi-modal Chinese Tourism Knowledge Graph. ICPCSEE, 2021  
 3. Wen et al., 多策略中文开放关系抽取方法. CCKS, 2021  
+7. Das et al., Breast cancer detection using an ensemble deep learning method, Biomedical Signal Processing and Control ,2021 
 4. Tiwari et al., Distance-aware knowledge graph reasoning based on deep reinforcement learning. Neural Networks, 2020  
 5. Wang et al., Structural block driven-enhanced convolutional neural representation for relation extraction. Applied Soft Computing, 2020  
 6. Zhu et al., FlexNER: A Flexible LSTM-CNN Stack Framework for Named Entity Recognition. NLPCC, 2019  
-7. Das et al., Breast cancer detection using an ensemble deep learning method, Biomedical Signal Processing and Control ,2021  
 8. 发明专利：一种旅游知识图谱模型确定方法及装置，2022  
 9. 发明专利：常识知识评分和排序方法及装置，2022  
 1. 发明专利：一种旅游知识语义分析方法及装置，2022  
