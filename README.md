@@ -1,3 +1,5 @@
+<img src="pic/me.jpg" width="300" />
+
 # 朱洪银
 
 研究兴趣为知识图谱、自然语言处理，清华大学计算机系博士后、博士毕业于中国科学院自动化研究所。构建多个领域的知识图谱，例如旅游知识图谱、汽车知识图谱、常识知识图谱、脑科学知识图谱等，并将知识图谱落地到实际应用中。通过知识查询网站、推荐系统、智能对话机器人等功能，为相关系统增加了大量用户，为相关产品提升了收益。
@@ -16,7 +18,7 @@ Email: hongyin_zhu@163.com
 发明专利：一种多模态信息处理方法、装置、设备、介质及系统
 
 
-* 知识图谱、自然语言处理、深度学习
+* 知识图谱
 
 Zhu et al., SwitchNet: A modular neural network for adaptive relation extraction. Computers and Electrical Engineering, 2022  
 Xie et al., Construction of Multi-modal Chinese Tourism Knowledge Graph. ICPCSEE, 2021  
@@ -32,7 +34,7 @@ Das et al., Breast cancer detection using an ensemble deep learning method, Biom
 发明专利：一种图神经网络处理方法、装置、设备、介质及系统  
 
 
-* 脑科学+知识图谱
+* 脑科学
 
 Zhu et al., Species Classification for Neuroscience Literature Based on Span of Interest Using Sequence-to-sequence Learning Model. Frontiers in Human Neuroscience, 2020  
 Zhu et al., Research Topics Variation Analysis and Prediction Based on FARO and Neural Networks. IEEE SMC, 2016
