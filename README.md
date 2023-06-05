@@ -6,7 +6,7 @@ Email: hongyin_zhu@163.com
 
 * 预训练语言模型
 
-发布的预训练语言模型 https://huggingface.co/hongyin
+发布的预训练语言模型 [Huggingface社区](https://huggingface.co/hongyin)
 
 (旅游领域) Zhu et al., Pre-training Language Model Incorporating Domain-specific Heterogeneous Knowledge into A Unified Representation. Expert Systems with Applications, 2022  
 (AIoT领域) Zhu et al., A Collaborative AI-Enabled Pretrained Language Model for AIoT Domain Question Answering. IEEE Transactions on Industrial Informatics, 2021  
