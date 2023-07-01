@@ -34,15 +34,15 @@
 3. Wen et al., 多策略中文开放关系抽取方法. CCKS, 2021  
 7. Das et al., Breast cancer detection using an ensemble deep learning method, Biomedical Signal Processing and Control ,2021 
 4. Tiwari et al., Distance-aware knowledge graph reasoning based on deep reinforcement learning. Neural Networks, 2020  
-5. Wang et al., Structural block driven-enhanced convolutional neural representation for relation extraction. Applied Soft Computing, 2020  
-6. Zhu et al., FlexNER: A Flexible LSTM-CNN Stack Framework for Named Entity Recognition. NLPCC, 2019
-7. Zhu et al., 发明专利：一种知识图谱嵌入方法、装置、设备、介质及系统  
-1. Zhu et al., 发明专利：一种图神经网络处理方法、装置、设备、介质及系统  
+5. Wang et al., Structural block driven-enhanced convolutional neural representation for relation extraction. Applied Soft Computing, 2020
+6. Zhu et al., FlexNER: A Flexible LSTM-CNN Stack Framework for Named Entity Recognition. NLPCC, 2019 
 8. Li et al., 发明专利：一种旅游知识图谱模型确定方法及装置，2022, CN202111372439.3
 9. Li et al., 发明专利：常识知识评分和排序方法及装置，2022, CN202210292415.5  
 1. Li et al., 发明专利：一种旅游知识语义分析方法及装置，2022, CN202111371152.9
-2. Zhu et al., 发明专利：一种常识知识处理方法、装置、电子设备及计算机可读存储介质, 2023
-3. Zhu et al., 发明专利：一种图计算处理方法、装置、电子设备及计算机可读存储介质, 2023
+2. Zhu et al., 发明专利：一种知识图谱嵌入方法、装置、设备、介质及系统, 2023
+1. Zhu et al., 发明专利：一种图神经网络处理方法、装置、设备、介质及系统, 2023
+3. Zhu et al., 发明专利：一种常识知识处理方法、装置、电子设备及计算机可读存储介质, 2023
+4. Zhu et al., 发明专利：一种图计算处理方法、装置、电子设备及计算机可读存储介质, 2023
 
 
 
