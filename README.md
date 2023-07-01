@@ -19,9 +19,9 @@
 1. (旅游领域) Zhu et al., Pre-training Language Model Incorporating Domain-specific Heterogeneous Knowledge into A Unified Representation. Expert Systems with Applications, 2022  
 1. (AIoT领域) Zhu et al., A Collaborative AI-Enabled Pretrained Language Model for AIoT Domain Question Answering. IEEE Transactions on Industrial Informatics, 2021  
 1. Zhu. 融合常识与领域知识的预训练语言模型关键技术研究. 清华大学, 2022
-1. Zhu et al., 发明专利：一种文本检测方法、装置、设备、介质及系统  
-1. Zhu et al., 发明专利：图像检测方法、装置、电子设备及计算机可读存储介质  
-5. Zhu et al., 发明专利：一种文本信息处理方法、系统、设备及计算机存储介质  
+1. Zhu et al., 发明专利：数据处理方法、装置、电子设备及计算机可读存储介质, CN202310492370.0  
+1. Zhu et al., 发明专利：图像检测方法、装置、电子设备及计算机可读存储介质, CN202310340822.3  
+5. Zhu et al., 发明专利：一种文本信息处理方法、系统、设备及计算机存储介质, CN202310294417.2
 6. Zhu et al., 发明专利：一种多模态信息处理方法、装置、设备、介质及系统
 
 
@@ -36,9 +36,9 @@
 6. Zhu et al., FlexNER: A Flexible LSTM-CNN Stack Framework for Named Entity Recognition. NLPCC, 2019
 7. Zhu et al., 发明专利：一种知识图谱嵌入方法、装置、设备、介质及系统  
 1. Zhu et al., 发明专利：一种图神经网络处理方法、装置、设备、介质及系统  
-8. Li et al., 发明专利：一种旅游知识图谱模型确定方法及装置，2022  
-9. Li et al., 发明专利：常识知识评分和排序方法及装置，2022  
-1. Li et al., 发明专利：一种旅游知识语义分析方法及装置，2022  
+8. Li et al., 发明专利：一种旅游知识图谱模型确定方法及装置，2022, CN202111372439.3
+9. Li et al., 发明专利：常识知识评分和排序方法及装置，2022, CN202210292415.5  
+1. Li et al., 发明专利：一种旅游知识语义分析方法及装置，2022, CN202111371152.9
 
 
 
