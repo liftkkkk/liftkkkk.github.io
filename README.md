@@ -1,4 +1,4 @@
-<img src="pic/202307.jpg" width="200" />
+<img src="pic/20230715.jpg" width="200" />
 
 ## 朱洪银 hongyin_zhu@163.com
 
