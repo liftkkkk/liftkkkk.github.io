@@ -7,8 +7,8 @@
 
 
 ## 系统
-* [哲学家多轮对话机器人](https://ace2d3c96ba6da459d.gradio.live)
-* [绘画大师——在线系统](https://86725edd82287acf7f.gradio.live)
+* [在线系统:哲学家多轮对话机器人（系统维护中）](https://ace2d3c96ba6da459d.gradio.live)
+* [在线系统:绘画大师（运行中）](https://86725edd82287acf7f.gradio.live)
 * 北京旅游知识图谱
 * 手机浏览器信息流推荐
 * 脑科学知识引擎系统
