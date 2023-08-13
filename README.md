@@ -62,3 +62,5 @@
 
 ### 友情链接
 1. [Hongyin Zhu谷歌学术](https://scholar.google.ru/citations?user=LXXoB3QAAAAJ&hl=en)
+2. [DBLP](https://dblp.org/pid/186/4399.html)
+3. [Semantic scholar](https://www.semanticscholar.org/author/Hongyin-Zhu/3465702)
