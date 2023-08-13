@@ -1,6 +1,6 @@
 <img src="pic/20230715.jpg" width="400" />
 
-## 朱洪银 hongyin_zhu@163.com
+## 朱洪银 (Hongyin Zhu) hongyin_zhu@163.com
 
 近期项目：围绕特定场景的知识图谱解决方案、高性能存储和计算。研究兴趣是知识图谱、自然语言处理。
 
@@ -31,7 +31,6 @@
 8. Zhu et al., 发明专利：一种推荐系统数据处理方法、装置、设备、介质及系统, 2023
 9. Zhu et al., 发明专利：一种多模态文旅数据处理方法、装置、设备、介质及系统, 2023
 
-
 ### 知识图谱
 
 1. Zhu et al., SwitchNet: A modular neural network for adaptive relation extraction. Computers and Electrical Engineering, 2022  
@@ -49,8 +48,6 @@
 3. Zhu et al., 发明专利：一种常识知识处理方法、装置、电子设备及计算机可读存储介质, 2023
 4. Zhu et al., 发明专利：一种图计算处理方法、装置、电子设备及计算机可读存储介质, 2023
 
-
-
 ### 脑科学
 
 1. Zhu et al., Species Classification for Neuroscience Literature Based on Span of Interest Using Sequence-to-sequence Learning Model. Frontiers in Human Neuroscience, 2020  
@@ -62,3 +59,6 @@
 1. Zhu. 基于神经科学文献感兴趣片段的跨物种脑认知知识图谱自动构建. 中国科学院大学, 2020
 1. Zhu. 面向认知功能的脑区环路知识图谱自动构建. 中国科学院大学, 2017
 7. Zhu et al., 发明专利：一种脑科学文献处理方法、装置、设备、介质及系统, 2023 
+
+### 友情链接
+1. [Hongyin Zhu谷歌学术](https://scholar.google.ru/citations?user=LXXoB3QAAAAJ&hl=en)
