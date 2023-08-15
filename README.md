@@ -4,19 +4,19 @@
 
 近期项目：特定场景的知识图谱解决方案、高性能存储和计算。
 
-学术研究经历：本人研究兴趣是知识图谱、自然语言处理，主要集中于垂直领域的知识图谱构建和智能服务。基于构建的旅游、汽车、常识、脑科学等领域知识图谱，提供预训练语言模型、知识图谱网站、推荐引擎、对话机器人等系统接口，增强了用户体验，并为相关产品带来了可观的效益。
+学术研究经历：本人研究兴趣是知识图谱、自然语言处理，主要集中于垂直领域的知识图谱构建和智能服务。基于旅游、汽车、常识、脑科学等领域知识图谱，提供预训练语言模型、知识图谱网站、推荐引擎、对话机器人等系统接口，增强了用户体验，并为相关产品带来了可观的效益。
 
 教育背景：清华大学计算机系博士后、中国科学院自动化研究所博士。
 
-## 系统
+## 1 系统应用
 * 对话机器人、绘画机器人
 * 北京旅游多模态知识图谱与对话系统
 * 汽车领域手机浏览器信息流推荐系统
 * 脑科学知识引擎系统
 
-## 研究兴趣
+## 2 研究兴趣
 
-### 预训练语言模型
+### 2.1 预训练语言模型
 
 发布的预训练语言模型 [Huggingface社区](https://huggingface.co/hongyin)
 
@@ -31,7 +31,7 @@
 8. Zhu et al., 发明专利：一种推荐系统数据处理方法、装置、设备、介质及系统, 2023
 9. Zhu et al., 发明专利：一种多模态文旅数据处理方法、装置、设备、介质及系统, 2023
 
-### 知识图谱
+### 2.2 知识图谱
 1. Zhu et al., 基于实体语义聚合的常识知识图谱嵌入学习方法, CCKS, 2023
 1. Zhu et al., SwitchNet: A modular neural network for adaptive relation extraction. Computers and Electrical Engineering, 2022  
 2. Xie et al., Construction of Multi-modal Chinese Tourism Knowledge Graph. ICPCSEE, 2021  
@@ -48,7 +48,7 @@
 3. Zhu et al., 发明专利：一种常识知识处理方法、装置、电子设备及计算机可读存储介质, 2023
 4. Zhu et al., 发明专利：一种图计算处理方法、装置、电子设备及计算机可读存储介质, 2023
 
-### 脑科学
+### 2.3 脑科学
 
 1. Zhu et al., Species Classification for Neuroscience Literature Based on Span of Interest Using Sequence-to-sequence Learning Model. Frontiers in Human Neuroscience, 2020  
 2. Zhu et al., Research Topics Variation Analysis and Prediction Based on FARO and Neural Networks. IEEE SMC, 2016
@@ -60,7 +60,7 @@
 1. Zhu. 面向认知功能的脑区环路知识图谱自动构建. 中国科学院大学, 2017
 7. Zhu et al., 发明专利：一种脑科学文献处理方法、装置、设备、介质及系统, 2023 
 
-### 友情链接
+## 3 友情链接
 1. [Hongyin Zhu谷歌学术](https://scholar.google.ru/citations?user=LXXoB3QAAAAJ&hl=en)
 2. [DBLP](https://dblp.org/pid/186/4399.html)
 3. [Semantic scholar](https://www.semanticscholar.org/author/Hongyin-Zhu/3465702)
