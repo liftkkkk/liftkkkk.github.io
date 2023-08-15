@@ -40,9 +40,9 @@
 4. Tiwari et al., Distance-aware knowledge graph reasoning based on deep reinforcement learning. Neural Networks, 2020  
 5. Wang et al., Structural block driven-enhanced convolutional neural representation for relation extraction. Applied Soft Computing, 2020
 6. Zhu et al., FlexNER: A Flexible LSTM-CNN Stack Framework for Named Entity Recognition. NLPCC, 2019 
-8. Li et al., 发明专利：一种旅游知识图谱模型确定方法及装置，2022, CN202111372439.3
-9. Li et al., 发明专利：常识知识评分和排序方法及装置，2022, CN202210292415.5  
-1. Li et al., 发明专利：一种旅游知识语义分析方法及装置，2022, CN202111371152.9
+8. Li et al., 发明专利：一种旅游知识图谱模型确定方法及装置，CN202111372439.3
+9. Li et al., 发明专利：常识知识评分和排序方法及装置，CN202210292415.5  
+1. Li et al., 发明专利：一种旅游知识语义分析方法及装置，CN202111371152.9
 2. Zhu et al., 发明专利：目标知识图谱嵌入方法、其装置及电子设备, CN202310970701.7
 1. Zhu et al., 发明专利：一种图数据分类方法、系统、装置及介质, CN202310945202.2
 3. Zhu et al., 发明专利：一种常识知识处理方法、装置、电子设备及计算机可读存储介质, 2023
