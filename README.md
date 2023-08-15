@@ -32,7 +32,7 @@
 9. Zhu et al., 发明专利：一种多模态文旅数据处理方法、装置、设备、介质及系统, 2023
 
 ### 知识图谱
-
+1. Zhu et al., 基于实体语义聚合的常识知识图谱嵌入学习方法, CCKS, 2023
 1. Zhu et al., SwitchNet: A modular neural network for adaptive relation extraction. Computers and Electrical Engineering, 2022  
 2. Xie et al., Construction of Multi-modal Chinese Tourism Knowledge Graph. ICPCSEE, 2021  
 3. Wen et al., 多策略中文开放关系抽取方法. CCKS, 2021  
