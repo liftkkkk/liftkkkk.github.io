@@ -14,9 +14,9 @@
 
 ## 2 研究兴趣
 
-### 2.1 预训练语言模型
+### 2.1 大语言模型
 
-发布的预训练语言模型 [Huggingface社区](https://huggingface.co/hongyin)
+发布的大语言模型 [Huggingface社区](https://huggingface.co/hongyin)
 
 1. (旅游领域) Zhu et al., Pre-training Language Model Incorporating Domain-specific Heterogeneous Knowledge into A Unified Representation. Expert Systems with Applications, 2022  
 1. (AIoT领域) Zhu et al., A Collaborative AI-Enabled Pretrained Language Model for AIoT Domain Question Answering. IEEE Transactions on Industrial Informatics, 2021  
