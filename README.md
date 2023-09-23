@@ -8,11 +8,9 @@
 
 教育背景：清华大学计算机系博士后、中国科学院自动化研究所博士。
 
-## 1 系统应用
-* 对话机器人、绘画机器人
-* 北京旅游多模态知识图谱与对话系统
-* 汽车领域手机浏览器信息流推荐系统
-* 脑科学知识引擎系统
+## 1 近期学术讲座
+* 大模型时代的知识图谱研究进展，2023.09.22
+* 数字人文知识图谱构建. 2022.10.05
 
 ## 2 研究兴趣
 
@@ -58,9 +56,15 @@
 6. Zhu et al., Brain Knowledge Engine. Advances in Neuroinformatics IV. AINI 2016. Conference Abstract: Demonstration Session  
 1. Zhu. 基于神经科学文献感兴趣片段的跨物种脑认知知识图谱自动构建. 中国科学院大学, 2020
 1. Zhu. 面向认知功能的脑区环路知识图谱自动构建. 中国科学院大学, 2017
-7. Zhu et al., 发明专利：一种脑科学文献处理方法、装置、设备、介质及系统, 2023 
+7. Zhu et al., 发明专利：一种脑科学文献处理方法、装置、设备、介质及系统, 2023
 
+## 3 系统应用
+* 对话机器人、绘画机器人
+* 北京旅游多模态知识图谱与对话系统
+* 汽车领域手机浏览器信息流推荐系统
+* 脑科学知识引擎系统
+  
 ## 3 友情链接
-1. [Hongyin Zhu谷歌学术](https://scholar.google.ru/citations?user=LXXoB3QAAAAJ&hl=en)
+1. [谷歌学术](https://scholar.google.ru/citations?user=LXXoB3QAAAAJ&hl=en)
 2. [DBLP](https://dblp.org/pid/186/4399.html)
 3. [Semantic scholar](https://www.semanticscholar.org/author/Hongyin-Zhu/3465702)
