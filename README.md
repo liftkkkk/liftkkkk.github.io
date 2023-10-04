@@ -1,4 +1,4 @@
-<img src="pic/20230715.jpg" width="400" />
+<img src="pic/202310.jpg" width="300" />
 
 ## 朱洪银 博士 (Dr. Hongyin Zhu) 
 
