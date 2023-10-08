@@ -24,6 +24,12 @@
 * [第十七届全国知识图谱与语义计算大会，2023.08.24，沈阳](pic/2023/02.jpg)
 * [2023年计算机系校友创新创业研讨会--第一届基础模型前沿研讨会，2023.04.29，北京](pic/2023/08.jpg)
 
+### 1.3 担任以下国际期刊审稿人
+
+* 人工智能领域：《Expert Systems with Applications》，《IEEE Transactions on Neural Networks and Learning Systems》，《Neurocomputing》等
+* Nature旗下：《Scientific Reports》,《Social Network Analysis and Mining》,《International Journal of Data Science and Analytics》
+* 担任期刊编委：《Journal of Artificial Intelligence and Robotics》，《Machine Learning in Engineering and Technology》
+
 ## 2 研究兴趣
 
 ### 2.1 大语言模型
