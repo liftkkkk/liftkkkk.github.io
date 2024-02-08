@@ -18,7 +18,12 @@
 * 智慧计算知识图谱. 2023.09，浪潮电子信息产业股份有限公司
 * 数字人文知识图谱构建. 2022.10.05，中山大学
 
-### 1.2 线下活动
+### 1.2 研究提案/指南
+* [基于多模态数据的大语言模型和图神经网络融合技术研](2024/doc/2024-02.pdf)
+* [面向人工智能模型的数据治理软硬件协同关键技术研究](2024/doc/2023-08.pdf)
+* [数据中心服务器智能化管理系统](2024/doc/2022-12.pdf)
+
+### 1.3 线下活动
 * [第一届龙蜥操作系统大会 (OpenAnolis Conference 2023)，2023.12.17，北京](pic/2023/13.jpeg)
 * [AICC 2023 人工智能计算大会，2023.11.29，北京](pic/2023/12.jpg)
 * [存储服务器和GPU显卡库存，2023.10.31，北京](pic/2023/11.jpg)
@@ -31,7 +36,7 @@
 * [第十七届全国知识图谱与语义计算大会，2023.08.24，沈阳](pic/2023/02.jpg)
 * [2023年计算机系校友创新创业研讨会--第一届基础模型前沿研讨会，2023.04.29，北京](pic/2023/08.jpg)
 
-### 1.3 担任以下国际期刊审稿人
+### 1.4 担任以下国际期刊审稿人
 
 * 人工智能领域：《Expert Systems with Applications》，《IEEE Transactions on Neural Networks and Learning Systems》，《Neurocomputing》等
 * Nature旗下：《Scientific Reports》,《Social Network Analysis and Mining》,《International Journal of Data Science and Analytics》
