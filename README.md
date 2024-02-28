@@ -88,6 +88,11 @@
 1. Zhu. 基于神经科学文献感兴趣片段的跨物种脑认知知识图谱自动构建. 中国科学院大学, 2020
 1. Zhu. 面向认知功能的脑区环路知识图谱自动构建. 中国科学院大学, 2017
 7. Zhu et al., 发明专利：一种文献分析方法、系统、设备及存储介质, CN202311459391.9
+
+### 2.4 其他主题
+
+1. Liu et al. Neural Personalized Topic Modeling for Mining User Preferences on Social Media. CIKM, 2023
+2. Liu et al. Integrating FPGA-based hardware acceleration with relational databases. Parallel Computing, 2024.
   
 ## 友情链接
 1. [谷歌学术](https://scholar.google.ru/citations?user=LXXoB3QAAAAJ&hl=en)
