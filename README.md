@@ -60,8 +60,11 @@
 9. Zhu et al., 发明专利：信息获取方法、装置、设备、服务器及集群、存储介质, CN202311459391.9
 1. Zhu et al., 发明专利：一种数据推送方法、装置、电子设备及存储介质, CN202311421339.4
 2. Zhu et al., 发明专利：推荐方法、模型训练方法、装置、设备及可读存储介质, CN202311284394.3
+3. Zhu et al., 发明专利：基于大语言模型的推荐模型的生成方法以及相应的产品, CN202311675494.9
+4. Zhu et al., 发明专利：一种融入协同知识的大模型推荐方法、装置和系统, 2023
 
 ### 2.2 知识图谱
+
 1. Zhu et al., 基于实体语义聚合的常识知识图谱嵌入学习方法, CCKS, 2023
 1. Zhu et al., SwitchNet: A modular neural network for adaptive relation extraction. Computers and Electrical Engineering, 2022  
 2. Xie et al., Construction of Multi-modal Chinese Tourism Knowledge Graph. ICPCSEE, 2021  
@@ -76,7 +79,7 @@
 2. Zhu et al., 发明专利：目标知识图谱嵌入方法、其装置及电子设备, CN202310970701.7
 1. Zhu et al., 发明专利：一种图数据分类方法、系统、装置及介质, CN202310945202.2
 3. Zhu et al., 发明专利：一种常识知识图谱的存储方法、系统, CN202311177003.8
-4. Zhu et al., 发明专利：一种图计算处理方法、装置、电子设备及计算机可读存储介质, 2023
+4. Zhu et al., 发明专利：一种智慧城市数据处理方法、装置、设备及可读存储介质, CN202410078615.X
 
 ### 2.3 脑科学
 
