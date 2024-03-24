@@ -98,8 +98,9 @@
 
 ### 2.4 其他主题
 
-1. Liu et al. Neural Personalized Topic Modeling for Mining User Preferences on Social Media. CIKM, 2023
-2. Liu et al. Integrating FPGA-based hardware acceleration with relational databases. Parallel Computing, 2024.
+1. Liu et al. Integrating FPGA-based hardware acceleration with relational databases. Parallel Computing, 2024.
+2. Liu et al. Neural Personalized Topic Modeling for Mining User Preferences on Social Media. CIKM, 2023
+
   
 ## 友情链接
 1. [谷歌学术](https://scholar.google.ru/citations?user=LXXoB3QAAAAJ&hl=en)
