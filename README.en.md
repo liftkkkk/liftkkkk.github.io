@@ -41,7 +41,7 @@
 
 ### 1.4 Served as a reviewer for the following international journals
 
-* artificial intelligence field：《Expert Systems with Applications》，《IEEE Transactions on Neural Networks and Learning Systems》，《Neurocomputing》等
+* Artificial intelligence field：《Expert Systems with Applications》，《IEEE Transactions on Neural Networks and Learning Systems》，《Neurocomputing》等
 * Nature：《Scientific Reports》,《Social Network Analysis and Mining》,《International Journal of Data Science and Analytics》
 * Journal editorial board：《Journal of Artificial Intelligence and Robotics》，《Machine Learning in Engineering and Technology》
 
