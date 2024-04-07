@@ -5,8 +5,8 @@
 * Recent projects: large graph model, high-performance storage and computing
 * Academic research experience: Research interests include knowledge graph construction, natural language processing, and high-performance computing. Research results have been applied to high-performance computing scenarios, as well as knowledge graphs in fields such as tourism, automobiles, common sense, and brain science, providing users with knowledge graph websites, large language models, recommendation engines, high-performance data storage and other services improve user experience and bring considerable economic benefits to related products.
 * Educational background: Postdoctoral fellow in the Department of Computer Science, Tsinghua University; Ph.D. in the Institute of Automation, Chinese Academy of Sciences
-*Contact information: hongyin_zhu@163.com
-*Contact address: Shangdi Information Road, Haidian District, Beijing
+* Contact information: hongyin_zhu@163.com
+* Contact address: Shangdi Information Road, Haidian District, Beijing
 
 ## 1 Recent academic and industry trends
 
