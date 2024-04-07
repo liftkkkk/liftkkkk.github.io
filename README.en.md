@@ -49,11 +49,11 @@
 
 ### 2.1 Large language model
 
-发布的大语言模型 [Huggingface社区](https://huggingface.co/hongyin)
+Released large language models [Huggingface社区](https://huggingface.co/hongyin)
 
 1. (RAG) Zhu. Reranking Passages with Coarse-to-Fine Neural Retriever Enhanced by List-Context Information, Journal of Artificial Intelligence and Robotics, 2024
-1. (旅游领域) Zhu et al., Pre-training Language Model Incorporating Domain-specific Heterogeneous Knowledge into A Unified Representation. Expert Systems with Applications, 2022  
-1. (AIoT领域) Zhu et al., A Collaborative AI-Enabled Pretrained Language Model for AIoT Domain Question Answering. IEEE Transactions on Industrial Informatics, 2021  
+1. (Tourism field) Zhu et al., Pre-training Language Model Incorporating Domain-specific Heterogeneous Knowledge into A Unified Representation. Expert Systems with Applications, 2022  
+1. (AIoT field) Zhu et al., A Collaborative AI-Enabled Pretrained Language Model for AIoT Domain Question Answering. IEEE Transactions on Industrial Informatics, 2021  
 1. Zhu. 融合常识与领域知识的预训练语言模型关键技术研究. 清华大学, 2022
 1. Zhu et al., 发明专利：数据处理方法、装置、电子设备及计算机可读存储介质, CN202310492370.0  
 1. Zhu et al., 发明专利：图像检测方法、装置、电子设备及计算机可读存储介质, CN202310340822.3 （申请美国专利）
