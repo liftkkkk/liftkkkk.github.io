@@ -43,6 +43,7 @@
 
 * 人工智能领域：《Expert Systems with Applications》，《IEEE Transactions on Neural Networks and Learning Systems》，《Neurocomputing》等
 * Nature旗下：《Scientific Reports》,《Social Network Analysis and Mining》,《International Journal of Data Science and Analytics》
+* 交叉领域：《Computers, Materials & Continua》
 * 担任期刊编委：《Journal of Artificial Intelligence and Robotics》，《Machine Learning in Engineering and Technology》
 
 ## 2 研究兴趣
