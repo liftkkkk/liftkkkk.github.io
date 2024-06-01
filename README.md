@@ -13,6 +13,7 @@
 
 发布的大语言模型 [Huggingface社区](https://huggingface.co/hongyin)
 
+1. Zhu. Pre-training Graph Autoencoder Incorporating Hierarchical Topology Knowledge, SCI一区在审, 2024
 1. (RAG) Zhu. Reranking Passages with Coarse-to-Fine Neural Retriever Enhanced by List-Context Information, Journal of Artificial Intelligence and Robotics, 2024
 1. (旅游领域) Zhu et al., Pre-training Language Model Incorporating Domain-specific Heterogeneous Knowledge into A Unified Representation. Expert Systems with Applications, 2022  
 1. (AIoT领域) Zhu et al., A Collaborative AI-Enabled Pretrained Language Model for AIoT Domain Question Answering. IEEE Transactions on Industrial Informatics, 2021  
