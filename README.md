@@ -63,7 +63,7 @@
 
 ### 1.4 其他主题
 
-1. 3. Lin et al. EFSC: An Efficient, Flexible and Secure Trading System for Computing Power Network, IEEE Conference on Local Computer Network (LCN), 2024
+1. Lin et al. EFSC: An Efficient, Flexible and Secure Trading System for Computing Power Network, IEEE Conference on Local Computer Network (LCN), 2024
 1. Liu et al. Integrating FPGA-based hardware acceleration with relational databases. Parallel Computing, 2024.
 2. Liu et al. Neural Personalized Topic Modeling for Mining User Preferences on Social Media. CIKM, 2023
 
