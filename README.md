@@ -1,4 +1,4 @@
-<img src="pic/202402.jpg" width="200" />
+<img src="pic/202402.jpg" width="500" />
 
 ## 朱洪银
 
