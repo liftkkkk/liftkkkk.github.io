@@ -71,7 +71,7 @@
 ## 2 近期学术和产业动态
 
 ### 2.1 作报告
-* [智慧算力策略：大模型与知识图谱的协同探索. 2024.07，北京化工大学](https://www.bsia.org.cn/site/content/27234.html)
+* [智慧算力策略：大模型与知识图谱的协同探索. 2024.07](https://www.bsia.org.cn/site/content/27234.html), [北京化工大学](https://cist.buct.edu.cn/2024/0722/c981a196977/page.htm)
 * 大模型时代的知识工程：从产业和技术角度. 2024.03，北京建筑大学
 * 智慧计算知识图谱（加长版）. 2023.12.27，浪潮集团精品课程
 * [大模型时代的知识工程研究进展. 2023.12.01，兰州财经大学](https://mp.weixin.qq.com/s?__biz=MzUzODA1Nzg1OA==&mid=2247523531&idx=1&sn=5381c5a6df3bb7a5e7873314febef1d9&chksm=fadf5126cda8d8305b812605530ea6aef55e69ca0605ae8db99ccdef2b2fe071f8f0c68def06&scene=27)
