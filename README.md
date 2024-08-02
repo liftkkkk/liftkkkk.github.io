@@ -81,6 +81,7 @@
 * [数字人文知识图谱构建. 2022.10.05，中山大学](https://mp.weixin.qq.com/s?__biz=MzIyNTU2MTU2Mg==&mid=2247503871&idx=1&sn=56833448dcb3d92462ed0f212acc986d&chksm=e87f514adf08d85c7d90da4128781f97fd0afabd09105fffb3c1d2afa3d51d59609ec0ce3484&scene=27)
 * [知识图谱, 2021.06, 沪东中华造船集团](https://www.cs.tsinghua.edu.cn/info/1031/4597.htm)
 * [知识图谱, 2020.09, 酒泉卫星发射中心](https://postdoctor.tsinghua.edu.cn/info/zxjx/2031)
+
 ### 2.2 研究提案/指南
 * [大模型预训练数据工程技术]()
 * [多模态大模型技术研究]()
