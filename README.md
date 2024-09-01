@@ -116,7 +116,7 @@
 ### 2.4 担任以下国际期刊审稿人
 
 * 人工智能领域：《Expert Systems with Applications》，《IEEE Transactions on Neural Networks and Learning Systems》，《Neurocomputing》等
-* Nature旗下：《Scientific Reports》,《Social Network Analysis and Mining》,《International Journal of Data Science and Analytics》,《Knowledge and Information Systems》，《The Journal of Supercomputing》，《[Artificial Intelligence Review](https://link.springer.com/journal/10462)》等
+* Nature旗下：《[Scientific Reports](https://www.nature.com/srep/)》,《[Social Network Analysis and Mining](https://link.springer.com/journal/13278)》,《[International Journal of Data Science and Analytics](https://link.springer.com/journal/41060)》,《[Knowledge and Information Systems](https://link.springer.com/journal/10115)》，《[The Journal of Supercomputing](https://link.springer.com/journal/11227)》，《[Artificial Intelligence Review](https://link.springer.com/journal/10462)》等
 * 交叉领域：《Computers, Materials & Continua》
 * 担任期刊编委：《Journal of Artificial Intelligence and Robotics》，《Machine Learning in Engineering and Technology》
   
