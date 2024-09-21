@@ -84,8 +84,9 @@
 
 ### 2.2 研究提案/指南
 * [大模型预训练数据工程技术]()
+* [多智能体技术研究]()
 * [图基础模型技术研究]()
-* [小模型技术研究]()
+* [模型压缩技术研究]()
 * [多模态大模型技术研究]()
 * [大模型推理加速技术研究]()
 * [脑结构连接降维与认知评分研究（脑科学）]()
@@ -116,7 +117,7 @@
 ### 2.4 担任以下国际期刊审稿人
 
 * 人工智能领域：《[Expert Systems with Applications](https://www.sciencedirect.com/journal/expert-systems-with-applications)》，《[IEEE Transactions on Neural Networks and Learning Systems](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=5962385)》，《[Neurocomputing](https://www.sciencedirect.com/journal/neurocomputing)》等
-* Nature旗下：《[Scientific Reports](https://www.nature.com/srep/)》,《[Social Network Analysis and Mining](https://link.springer.com/journal/13278)》,《[International Journal of Data Science and Analytics](https://link.springer.com/journal/41060)》,《[Knowledge and Information Systems](https://link.springer.com/journal/10115)》，《[The Journal of Supercomputing](https://link.springer.com/journal/11227)》，《[Artificial Intelligence Review](https://link.springer.com/journal/10462)》等
+* Nature旗下：《[Scientific Reports](https://www.nature.com/srep/)》,《[Social Network Analysis and Mining](https://link.springer.com/journal/13278)》,《[International Journal of Data Science and Analytics](https://link.springer.com/journal/41060)》,《[Knowledge and Information Systems](https://link.springer.com/journal/10115)》，《[The Journal of Supercomputing](https://link.springer.com/journal/11227)》，《[Artificial Intelligence Review](https://link.springer.com/journal/10462)》，《[International Journal on Document Analysis and Recognition](https://link.springer.com/journal/10032)》等
 * 交叉领域：《[Computers, Materials & Continua](https://www.techscience.com/journal/cmc)》
 * 担任期刊编委：《Journal of Artificial Intelligence and Robotics》，《Machine Learning in Engineering and Technology》
   
