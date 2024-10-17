@@ -32,7 +32,7 @@
 
 ### 1.2 知识图谱
 
-1. Zhu. Node Classification via Semantic-Structural Attention-Enhanced Graph Convolutional Networks. 2023, Arxiv
+1. Zhu. Node Classification via Semantic-Structural Attention-Enhanced Graph Convolutional Networks. Arxiv, 2023
 1. Wan et al. Construction of Multimodal Dialog System via Knowledge Graph in Travel Domain, APWeb, 2023
 1. Zhu et al., 基于实体语义聚合的常识知识图谱嵌入学习方法, CCKS, 2023
 1. Zhu et al., SwitchNet: A modular neural network for adaptive relation extraction. Computers and Electrical Engineering, 2022  
