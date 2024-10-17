@@ -11,8 +11,6 @@
 
 ### 1.1 大语言模型
 
-发布的大语言模型 [Huggingface社区](https://huggingface.co/hongyin)
-
 1. Zhu et al. Pre-training Graph Autoencoder Incorporating Hierarchical Topology Knowledge, 2024
 1. (RAG) Zhu. Reranking Passages with Coarse-to-Fine Neural Retriever Enhanced by List-Context Information, Journal of Artificial Intelligence and Robotics, 2024
 1. (气候变化) Zhu et al. Climate Change from Large Language Models, Arxiv, 2023
@@ -29,6 +27,8 @@
 2. Zhu et al., 发明专利：推荐方法、模型训练方法、装置、设备及可读存储介质, CN202311284394.3（申请美国专利）
 3. Zhu et al., 发明专利：基于大语言模型的推荐模型的生成方法以及相应的产品, CN202311675494.9（申请美国专利）
 4. Zhu et al., 发明专利：交互对象的推荐的方法和装置、存储介质及电子设备, CN202410283958.X（申请美国专利）
+
+发布的大语言模型 [Huggingface社区](https://huggingface.co/hongyin)
 
 ### 1.2 知识图谱
 
