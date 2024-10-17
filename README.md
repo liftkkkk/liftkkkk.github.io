@@ -54,9 +54,9 @@
 
 1. Zhu et al., Species Classification for Neuroscience Literature Based on Span of Interest Using Sequence-to-sequence Learning Model. Frontiers in Human Neuroscience, 2020  
 2. Zhu et al., Research Topics Variation Analysis and Prediction Based on FARO and Neural Networks. IEEE SMC, 2016
-3. Zhu et al., Brain Knowledge Graph Analysis Based on Complex Network Theory. BIH, 2016  
-4. Zhu et al., Relation Inference and Type Identification Based on Brain Knowledge Graph. BIH, 2016  
-5. Zeng et al., User Interests Analysis and Its Application on the Linked Brain Data Platform. BIH, 2016  
+3. Zhu et al., Brain Knowledge Graph Analysis Based on Complex Network Theory. Brain Informatics, 2016  
+4. Zhu et al., Relation Inference and Type Identification Based on Brain Knowledge Graph. Brain Informatics, 2016  
+5. Zeng et al., User Interests Analysis and Its Application on the Linked Brain Data Platform. Brain Informatics, 2016  
 6. Zhu et al., Brain Knowledge Engine. Advances in Neuroinformatics IV. AINI 2016. Conference Abstract: Demonstration Session  
 1. Zhu. 基于神经科学文献感兴趣片段的跨物种脑认知知识图谱自动构建. 中国科学院大学, 2020
 1. Zhu. 面向认知功能的脑区环路知识图谱自动构建. 中国科学院大学, 2017
