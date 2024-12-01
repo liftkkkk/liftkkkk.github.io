@@ -1,4 +1,3 @@
-<title>朱洪银的学术主页</title>
 <img src="pic/202402.jpg" width="500" />
 
 ## 朱洪银
