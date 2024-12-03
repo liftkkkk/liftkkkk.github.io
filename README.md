@@ -11,7 +11,7 @@
 
 ### 1.1 大语言模型
 
-1. Zhu et al. Pre-training Graph Autoencoder Incorporating Hierarchical Topology Knowledge, 2024
+1. Zhu et al. Pre-training Graph Autoencoder Incorporating Hierarchical Topology Knowledge, Expert Systems with Applications, 2024
 1. (RAG) Zhu. Reranking Passages with Coarse-to-Fine Neural Retriever Enhanced by List-Context Information, Journal of Artificial Intelligence and Robotics, 2024
 1. (气候变化) Zhu et al. Climate Change from Large Language Models, Arxiv, 2023
 1. (旅游领域) Zhu et al., Pre-training Language Model Incorporating Domain-specific Heterogeneous Knowledge into A Unified Representation. Expert Systems with Applications, 2022  
