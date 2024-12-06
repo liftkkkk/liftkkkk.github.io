@@ -99,8 +99,7 @@
 * [数据中心服务器智能化管理系统](2024/doc/2022-12.pdf)
 
 ### 2.3 参加活动
-* [360短视频挑战赛--晋级视频《干一行AI一行》](https://www.bilibili.com/video/BV1Xzi6YNEdd/?share_source=copy_web&vd_source=067b9b1a035ce6f22c43ce131fd58ee1)
-* [资本赋能新智生产力高质量发展（北京大学），2024.11，北京](pic/2024/08.png)
+* [360短视频挑战赛--晋级视频《干一行AI一行》2024.12，北京](https://www.bilibili.com/video/BV1Xzi6YNEdd/?share_source=copy_web&vd_source=067b9b1a035ce6f22c43ce131fd58ee1)
 * [资本赋能新智生产力高质量发展（北京大学），2024.11，北京](pic/2024/08.png)
 * [第一届风和论坛（智谱AI、气象局），2024.09，北京](pic/2024/07.png)
 * [ISC.AI 2024--第12届互联网安全大会，2024.07，北京](pic/2024/06.jpg)
