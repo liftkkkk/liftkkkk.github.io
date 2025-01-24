@@ -72,7 +72,7 @@
 ## 2 近期学术和产业动态
 
 ### 2.1 作报告
-* [干一行AI一行 第二期](https://www.bilibili.com/video/BV1yfrzYcEuj/?share_source=copy_web&vd_source=067b9b1a035ce6f22c43ce131fd58ee1). 2025.1，360公司（决赛作品）
+* [干一行AI一行 第二期](https://v.douyin.com/if5VoaqG/). 2025.1，"360短视频挑战赛"--潜力新星奖
 * [干一行AI一行](https://www.bilibili.com/video/BV1Xzi6YNEdd/?share_source=copy_web&vd_source=067b9b1a035ce6f22c43ce131fd58ee1). 2024.12，“360短视频挑战赛”入围作品
 * [人工智能应用大讲堂系列活动讲座](https://edu.bsia.org.cn/course/video?id=1866732791934214145)，2024.09. 北京软件和信息服务业协会（免费公开课程）
 * [知识增强的高效大模型实践](https://finance.sina.com.cn/jjxw/2024-10-14/doc-incsnqmf1665433.shtml). 2024.09. [智谱AI、气象局](https://www.cma.gov.cn/2011xwzx/2011xqxkj/2011xkjdt/202410/t20241014_6636586.html)
