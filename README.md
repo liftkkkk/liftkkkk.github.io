@@ -32,6 +32,7 @@
 
 ### 1.2 知识图谱
 
+1. Zhu H. Peer Review Report For: An ontology-driven knowledge graph for tourism information management. Open Research Europe 2025, 5:1 (https://doi.org/10.21956/openreseurope.19033.r50241)
 1. Zhu. Node Classification via Semantic-Structural Attention-Enhanced Graph Convolutional Networks. Arxiv, 2023
 1. Wan et al. Construction of Multimodal Dialog System via Knowledge Graph in Travel Domain, APWeb, 2023
 1. Zhu et al., 基于实体语义聚合的常识知识图谱嵌入学习方法, CCKS, 2023
