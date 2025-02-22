@@ -124,7 +124,7 @@
 
 * 人工智能领域：《[Expert Systems with Applications](https://www.sciencedirect.com/journal/expert-systems-with-applications)》，《[Information Fusion](https://www.sciencedirect.com/journal/information-fusion)》，《[IEEE Transactions on Neural Networks and Learning Systems](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=5962385)》，《[Neurocomputing](https://www.sciencedirect.com/journal/neurocomputing)》等
 * Nature旗下：《[Scientific Reports](https://www.nature.com/srep/)》,《[Social Network Analysis and Mining](https://link.springer.com/journal/13278)》,《[International Journal of Data Science and Analytics](https://link.springer.com/journal/41060)》,《[Knowledge and Information Systems](https://link.springer.com/journal/10115)》，《[The Journal of Supercomputing](https://link.springer.com/journal/11227)》，《[Artificial Intelligence Review](https://link.springer.com/journal/10462)》，《[International Journal on Document Analysis and Recognition](https://link.springer.com/journal/10032)》，《[BMC Medical Informatics and Decision Making](https://bmcmedinformdecismak.biomedcentral.com/)》等
-* 交叉领域：《[Intelligence-Based Medicine](https://www.sciencedirect.com/journal/intelligence-based-medicine)》，《[Computers, Materials & Continua](https://www.techscience.com/journal/cmc)》，《[PLOS ONE](https://journals.plos.org/plosone/)》
+* 交叉领域：《[Intelligence-Based Medicine](https://www.sciencedirect.com/journal/intelligence-based-medicine)》，《[Computers, Materials & Continua](https://www.techscience.com/journal/cmc)》，《[PLOS ONE](https://journals.plos.org/plosone/)》，《[Open Research Europe](https://open-research-europe.ec.europa.eu/)》
 * 担任期刊编委：《Journal of Artificial Intelligence and Robotics》，《Machine Learning in Engineering and Technology》
   
 ## 友情链接
