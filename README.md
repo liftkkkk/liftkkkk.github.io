@@ -104,7 +104,7 @@
 * [数据中心服务器智能化管理系统](2024/doc/2022-12.pdf)
 
 ### 2.3 参加活动
-* [DeepSeek 爆了，AI应用机遇在哪？](https://mp.weixin.qq.com/s/KlL4DEVT1fuP3IkzoB0lYA)，北京
+* [DeepSeek 爆了，AI应用机遇在哪？](https://mp.weixin.qq.com/s/KlL4DEVT1fuP3IkzoB0lYA)，2025，北京
 * [AI新纪元破局向未来（SVIP），2024.12](pic/2024/10.jpg)，[北京](https://mp.weixin.qq.com/s/rLIE-SsV0aOou5yEXSDWxw)
 * [极客公园创新大会 2025，2024.12，北京](pic/2024/09.png)
 * [资本赋能新智生产力高质量发展（北京大学），2024.11，北京](pic/2024/08.png)
