@@ -12,6 +12,7 @@
 ### 1.1 大语言模型
 
 1. Zhu et al., 发明专利：基于SafetyRAG的政治领域安全回复生成方法, 2025
+2. Zhu et al., 发明专利：大模型增量预训练数据压缩方法, 2025
 1. Zhu et al. Pre-training Graph Autoencoder Incorporating Hierarchical Topology Knowledge, Expert Systems with Applications, 2024
 1. (RAG) Zhu. Reranking Passages with Coarse-to-Fine Neural Retriever Enhanced by List-Context Information, Journal of Artificial Intelligence and Robotics, 2024
 1. (气候变化) Zhu et al. Climate Change from Large Language Models, Arxiv, 2023
