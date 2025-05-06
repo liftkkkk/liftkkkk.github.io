@@ -72,7 +72,7 @@
 2. Liu et al. Neural Personalized Topic Modeling for Mining User Preferences on Social Media. CIKM, 2023
 
 
-## 2 近期学术和产业动态
+## 2 [近期学术和产业动态](http://23.105.195.58:17862/index3.html)
 
 ### 2.1 作报告
 * [干一行AI一行 第二期](https://v.douyin.com/if5VoaqG/). 2025.1，"360短视频挑战赛"--潜力新星奖
