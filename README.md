@@ -72,7 +72,7 @@
 2. Liu et al. Neural Personalized Topic Modeling for Mining User Preferences on Social Media. CIKM, 2023
 
 
-## 2 [近期学术和产业动态](http://23.105.195.58:17862/index3.html)
+## 2 近期学术和产业动态
 
 ### 2.1 作报告
 * [干一行AI一行 第二期](https://v.douyin.com/if5VoaqG/). 2025.1，"360短视频挑战赛"--潜力新星奖
@@ -103,6 +103,7 @@
 * [基于多模态数据的大语言模型和图神经网络融合技术研究](2024/doc/2024-02.pdf)
 * [面向人工智能模型的数据治理软硬件协同关键技术研究](2024/doc/2023-08.pdf)
 * [数据中心服务器智能化管理系统](2024/doc/2022-12.pdf)
+* [企业智能体](http://23.105.195.58:17862/index3.html)
 
 ### 2.3 参加活动
 * [DeepSeek 爆了，AI应用机遇在哪？](https://mp.weixin.qq.com/s/KlL4DEVT1fuP3IkzoB0lYA)，[2025，北京](pic/2025/01.png)
