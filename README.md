@@ -13,7 +13,7 @@
 
 1. Zhu et al., 发明专利：低资源大模型越狱攻击方法, 2025
 2. Zhu et al., 发明专利：细粒度RAG谣言校验方法, 2025
-1. Zhu et al., 发明专利：基于SafetyRAG的政治领域安全回复生成方法, CN202510179924.0. 2025
+1. Zhu et al., 发明专利：基于SafetyRAG的政治领域安全回复生成方法, CN202510179924.0
 2. Zhu et al., 发明专利：基于数据压缩的高效大模型增量预训练方法, 2025
 1. Zhu et al. Pre-training Graph Autoencoder Incorporating Hierarchical Topology Knowledge, Expert Systems with Applications, 2024
 1. (RAG) Zhu. Reranking Passages with Coarse-to-Fine Neural Retriever Enhanced by List-Context Information, Journal of Artificial Intelligence and Robotics, 2024
