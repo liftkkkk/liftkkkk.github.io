@@ -15,7 +15,7 @@
 2. Zhu et al., 发明专利：细粒度RAG谣言校验方法, 2025
 1. Zhu et al., 发明专利：基于SafetyRAG的政治领域安全回复生成方法, CN202510179924.0
 2. Zhu et al., 发明专利：基于数据压缩的高效大模型增量预训练方法, 2025
-1. Zhu et al. Pre-training Graph Autoencoder Incorporating Hierarchical Topology Knowledge, Expert Systems with Applications, 2024
+1. Zhu et al. Pre-training Graph Autoencoder Incorporating Hierarchical Topology Knowledge, Arxiv, 2024
 1. (RAG) Zhu. Reranking Passages with Coarse-to-Fine Neural Retriever Enhanced by List-Context Information, Journal of Artificial Intelligence and Robotics, 2024
 1. (气候变化) Zhu et al. Climate Change from Large Language Models, Arxiv, 2023
 1. (旅游领域) Zhu et al., Pre-training Language Model Incorporating Domain-specific Heterogeneous Knowledge into A Unified Representation. Expert Systems with Applications, 2022  
