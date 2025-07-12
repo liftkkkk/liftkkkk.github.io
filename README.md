@@ -77,6 +77,7 @@
 ## 2 近期学术和产业动态
 
 ### 2.1 作报告
+* [智能生存指南：智能体时代如何避免被大模型反噬](https://mp.weixin.qq.com/s/xF8S9Db1XCvUGZyP9mI1Ng). 2025.07，中山大学
 * [干一行AI一行 第二期](https://v.douyin.com/if5VoaqG/). 2025.1，"360短视频挑战赛"--潜力新星奖
 * [干一行AI一行](https://www.bilibili.com/video/BV1Xzi6YNEdd/?share_source=copy_web&vd_source=067b9b1a035ce6f22c43ce131fd58ee1). 2024.12，“360短视频挑战赛”入围作品
 * [人工智能应用大讲堂系列活动讲座](https://edu.bsia.org.cn/course/video?id=1866732791934214145)，2024.09. 北京软件和信息服务业协会（免费公开课程）
