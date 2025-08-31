@@ -11,10 +11,10 @@
 
 ### 1.1 大语言模型
 
-1. Zhu et al., 发明专利：低资源自适应大模型越狱攻击方法, 2025
-2. Zhu et al., 发明专利：融合多源知识与大模型校验的谣言检测方法, 2025
-1. Zhu et al., 发明专利：基于SafetyRAG的政治领域安全回复生成方法, CN202510179924.0
-2. Zhu et al., 发明专利：基于数据压缩的高效大模型增量预训练方法, 2025
+1. Zhu et al., 发明专利：大模型安全防护方法、装置、设备及存储介质, CN202510897999.2
+2. Zhu et al., 发明专利：信息检测方法、装置、设备、存储介质及产品, CN202510875037.7
+1. Zhu et al., 发明专利：回答生成方法、装置、设备、存储介质及产品, CN202510179924.0
+2. Zhu et al., 发明专利：大模型优化方法、装置、设备及存储介质, CN202510437117.4
 1. Zhu et al. Pre-training Graph Autoencoder Incorporating Hierarchical Topology Knowledge, Arxiv, 2024
 1. Zhu. Reranking Passages with Coarse-to-Fine Neural Retriever Enhanced by List-Context Information, Journal of Artificial Intelligence and Robotics, 2024
 1. Zhu et al. Climate Change from Large Language Models, Arxiv, 2023
@@ -134,3 +134,4 @@
 1. [谷歌学术](https://scholar.google.ru/citations?user=LXXoB3QAAAAJ&hl=en)
 2. [DBLP](https://dblp.org/pid/186/4399.html)
 3. [Semantic scholar](https://www.semanticscholar.org/author/Hongyin-Zhu/3465702)
+
