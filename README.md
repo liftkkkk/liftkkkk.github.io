@@ -2,8 +2,7 @@
 
 ## 朱洪银
 
-* 近期项目：知识增强的大模型
-* 学术研究经历：研究兴趣是知识图谱构建、自然语言处理、高性能计算，研究成果已应用于智慧城市、旅游、汽车、常识、脑科学等领域，最近开展大模型、图大模型、高性能存储和计算研究，为用户提供了知识图谱网站、大语言模型、推荐引擎、数据存储等服务，从而提升了用户体验并为相关产品带来了可观的经济效益。
+* 近期项目：智能问数产品线、多智能体协同框架
 * 联系方式：hongyin_zhu@163.com
 * 联系地址：北京市海淀区上地信息路
 
@@ -134,4 +133,5 @@
 1. [谷歌学术](https://scholar.google.ru/citations?user=LXXoB3QAAAAJ&hl=en)
 2. [DBLP](https://dblp.org/pid/186/4399.html)
 3. [Semantic scholar](https://www.semanticscholar.org/author/Hongyin-Zhu/3465702)
+
 
