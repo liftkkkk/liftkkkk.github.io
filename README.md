@@ -1,5 +1,5 @@
 <img src="pic/202402.jpg" width="500" />
-<img src="pic/introduction.jpg" width="500" />
+<img src="pic/introduction.png" width="500" />
 
 ## 朱洪银
 
@@ -135,6 +135,7 @@
 1. [谷歌学术](https://scholar.google.ru/citations?user=LXXoB3QAAAAJ&hl=en)
 2. [DBLP](https://dblp.org/pid/186/4399.html)
 3. [Semantic scholar](https://www.semanticscholar.org/author/Hongyin-Zhu/3465702)
+
 
 
 
