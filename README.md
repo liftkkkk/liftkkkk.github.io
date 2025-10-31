@@ -7,7 +7,7 @@
 * 联系方式：hongyin_zhu@163.com
 * 联系地址：北京市海淀区上地信息路
 * 个人简介：语言与知识计算专委会委员，博士毕业于中国科学院自动化研究所，清华大学（知识工程实验室）博士后。曾担任奇虎360、用友网络算法专家，浪潮集团主任工程师、高端服务器系统全国重点实验室研究员；在知识图谱、自然语言处理、多智能体协同、AI搜索、AI安全、高性能计算等技术领域具备丰富的研发与落地经验；迄今已发表SCI/EI论文20余篇，申请发明专利20余项。
-* 出版专著：《高频算法设计》（中国水利水电出版社）优惠券：[抖音](https://haohuo.jinritemai.com/ecommerce/trade/detail/index.html?id=3783446309776785892&origin_type=605&pd_hide_footer=1)、 [京东](https://u.jd.com/pDTKxJ0)、[领红包](https://u.jd.com/pDTG2cj)
+* 出版专著：《高频算法设计》（[中国水利水电出版社](https://www.waterpub.com.cn/)）优惠券：[抖音](https://haohuo.jinritemai.com/ecommerce/trade/detail/index.html?id=3783446309776785892&origin_type=605&pd_hide_footer=1)、 [京东](https://u.jd.com/pDTKxJ0)、[领红包](https://u.jd.com/pDTG2cj)
 
 ## 1 研究兴趣
 
@@ -137,6 +137,7 @@
 1. [谷歌学术](https://scholar.google.ru/citations?user=LXXoB3QAAAAJ&hl=en)
 2. [DBLP](https://dblp.org/pid/186/4399.html)
 3. [Semantic scholar](https://www.semanticscholar.org/author/Hongyin-Zhu/3465702)
+
 
 
 
