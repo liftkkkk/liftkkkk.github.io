@@ -112,6 +112,7 @@
 * [企业智能体](http://23.105.195.58:17862/index3.html)
 
 ### 2.3 参加活动
+* [CIPS-SMP 2025 第十三届全国社会媒体处理大会]()
 * [DeepSeek 爆了，AI应用机遇在哪？](https://mp.weixin.qq.com/s/KlL4DEVT1fuP3IkzoB0lYA)，[2025，北京](pic/2025/01.png)
 * [AI新纪元破局向未来（SVIP），2024.12](pic/2024/10.jpg)，[北京](https://mp.weixin.qq.com/s/rLIE-SsV0aOou5yEXSDWxw)
 * [极客公园创新大会 2025，2024.12，北京](pic/2024/09.png)
@@ -137,6 +138,7 @@
 1. [谷歌学术](https://scholar.google.ru/citations?user=LXXoB3QAAAAJ&hl=en)
 2. [DBLP](https://dblp.org/pid/186/4399.html)
 3. [Semantic scholar](https://www.semanticscholar.org/author/Hongyin-Zhu/3465702)
+
 
 
 
