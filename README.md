@@ -79,6 +79,7 @@
 ## 2 近期学术和产业动态
 
 ### 2.1 作报告
+* [CIPS-SMP 2025 第十三届全国社会媒体处理大会](). 2025.11，武汉
 * [VexDB向量数据库产品发布会](https://mp.weixin.qq.com/s/97HKrJ8Zg6PhptR6OAM2yA). 2025.09，数智引航
 * [智能生存指南：智能体时代如何避免被大模型反噬](https://mp.weixin.qq.com/s/xF8S9Db1XCvUGZyP9mI1Ng). 2025.07，中山大学
 * [干一行AI一行 第二期](https://v.douyin.com/if5VoaqG/). 2025.1，"360短视频挑战赛"--潜力新星奖
@@ -138,6 +139,7 @@
 1. [谷歌学术](https://scholar.google.ru/citations?user=LXXoB3QAAAAJ&hl=en)
 2. [DBLP](https://dblp.org/pid/186/4399.html)
 3. [Semantic scholar](https://www.semanticscholar.org/author/Hongyin-Zhu/3465702)
+
 
 
 
