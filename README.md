@@ -14,7 +14,7 @@
 
 ### 1.1 大语言模型
 
-1. Yao et al., Construct, Align, and Reason: Large Ontology Models for Enterprise Knowledge Management. (2026).
+1. Zhang et al., Construct, Align, and Reason: Large Ontology Models for Enterprise Knowledge Management. (2026).
 1. Zhu et al., 发明专利：大模型安全防护方法、装置、设备及存储介质, CN202510897999.2
 2. Zhu et al., 发明专利：信息检测方法、装置、设备、存储介质及产品, CN202510875037.7
 1. Zhu et al., 发明专利：回答生成方法、装置、设备、存储介质及产品, CN202510179924.0
@@ -140,6 +140,7 @@
 1. [谷歌学术](https://scholar.google.ru/citations?user=LXXoB3QAAAAJ&hl=en)
 2. [DBLP](https://dblp.org/pid/186/4399.html)
 3. [Semantic scholar](https://www.semanticscholar.org/author/Hongyin-Zhu/3465702)
+
 
 
 
