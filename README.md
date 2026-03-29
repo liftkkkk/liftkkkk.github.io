@@ -77,7 +77,6 @@
 1. Liu et al. Integrating FPGA-based hardware acceleration with relational databases. Parallel Computing, 2024.
 2. Liu et al. Neural Personalized Topic Modeling for Mining User Preferences on Social Media. CIKM, 2023
 
-
 ## 2 近期学术和产业动态
 
 ### 2.1 作报告
@@ -98,22 +97,7 @@
 * [知识图谱, 2021.06, 沪东中华造船集团](https://www.cs.tsinghua.edu.cn/info/1031/4597.htm)
 * [知识图谱, 2020.09, 酒泉卫星发射中心](https://postdoctor.tsinghua.edu.cn/info/zxjx/2031)
 
-### 2.2 研究提案/指南
-* [金融等垂直领域RAG技术]()
-* [大模型预训练数据工程技术]()
-* [多智能体技术研究]()
-* [图基础模型技术研究]()
-* [模型压缩技术研究]()
-* [多模态大模型技术研究]()
-* [大模型推理加速技术研究]()
-* [脑结构连接降维与认知评分研究（脑科学）]()
-* [图嵌入与检索加速技术研究](2024/doc/embedding.jpg)
-* [基于多模态数据的大语言模型和图神经网络融合技术研究](2024/doc/2024-02.pdf)
-* [面向人工智能模型的数据治理软硬件协同关键技术研究](2024/doc/2023-08.pdf)
-* [数据中心服务器智能化管理系统](2024/doc/2022-12.pdf)
-* [企业智能体](http://23.105.195.58:17862/index3.html)
-
-### 2.3 参加活动
+### 2.2 参加活动
 * [CIPS-SMP 2025 第十三届全国社会媒体处理大会](). 2025.11，武汉
 * [DeepSeek 爆了，AI应用机遇在哪？](https://mp.weixin.qq.com/s/KlL4DEVT1fuP3IkzoB0lYA)，[2025，北京](pic/2025/01.png)
 * [AI新纪元破局向未来（SVIP），2024.12](pic/2024/10.jpg)，[北京](https://mp.weixin.qq.com/s/rLIE-SsV0aOou5yEXSDWxw)
@@ -129,7 +113,7 @@
 * [中国企业家俱乐部，2023.9.27，北京](pic/2023/04.jpg)
 * [第十七届全国知识图谱与语义计算大会，2023.08.24，沈阳](pic/2023/02.jpg)
 
-### 2.4 担任以下国际期刊审稿人
+### 2.3 担任以下国际期刊审稿人
 
 * 人工智能领域：《[Expert Systems with Applications](https://www.sciencedirect.com/journal/expert-systems-with-applications)》，《[Information Fusion](https://www.sciencedirect.com/journal/information-fusion)》，《[IEEE Transactions on Neural Networks and Learning Systems](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=5962385)》，《[Neurocomputing](https://www.sciencedirect.com/journal/neurocomputing)》，《[Natural Language Processing Journal](https://www.sciencedirect.com/journal/natural-language-processing-journal)》等
 * Nature旗下：《[Scientific Reports](https://www.nature.com/srep/)》,《[Social Network Analysis and Mining](https://link.springer.com/journal/13278)》,《[International Journal of Data Science and Analytics](https://link.springer.com/journal/41060)》,《[Knowledge and Information Systems](https://link.springer.com/journal/10115)》，《[The Journal of Supercomputing](https://link.springer.com/journal/11227)》，《[Artificial Intelligence Review](https://link.springer.com/journal/10462)》，《[International Journal on Document Analysis and Recognition](https://link.springer.com/journal/10032)》，《[BMC Medical Informatics and Decision Making](https://bmcmedinformdecismak.biomedcentral.com/)》，《[Journal of Big Data](https://journalofbigdata.springeropen.com/)》，《[Journal of Intelligent Information Systems](https://link.springer.com/journal/10844)》等
