@@ -14,7 +14,9 @@
 
 ### 1.1 大语言模型
 
-1. Zhang et al., Construct, Align, and Reason: Large Ontology Models for Enterprise Knowledge Management. (2026).
+1. Zhu et al. From Business Events to Auditable Decisions: Ontology-Governed Graph Simulation for Enterprise AI. Arxiv, 2026.
+1. Zhu et al. Unifying Ontology Construction and Semantic Alignment for Deterministic Enterprise Reasoning at Scale. Arxiv, 2026.
+1. Zhang et al., Construct, Align, and Reason: Large Ontology Models for Enterprise Knowledge Management. Arxiv, 2026.
 1. Zhu et al., 发明专利：大模型安全防护方法、装置、设备及存储介质, CN202510897999.2
 2. Zhu et al., 发明专利：信息检测方法、装置、设备、存储介质及产品, CN202510875037.7
 1. Zhu et al., 发明专利：回答生成方法、装置、设备、存储介质及产品, CN202510179924.0
