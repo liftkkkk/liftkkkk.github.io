@@ -5,7 +5,7 @@
 
 <h1 align="center">朱洪银</h1>
 <p align="center">
-  <b>AI研究者｜企业智能决策架构师｜Large Ontology Model（LOM）提出者</b>
+  <b>AI研究者｜Large Ontology Model（LOM）提出者</b>
 </p>
 
 ---
@@ -46,7 +46,7 @@
 - 融合领域知识的预训练语言模型（ESWA 2022）  
 - 面向AIoT的协同问答模型（IEEE TII 2021）  
 
-📌 模型发布：https://huggingface.co/hongyin  
+📌 开源项目：https://github.com/liftkkkk
 
 ---
 
