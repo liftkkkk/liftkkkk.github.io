@@ -23,7 +23,7 @@
 
 ## 🔥 当前研究重点
 
-- 🧠 大规模本体模型（Large Ontology Model, LOM）  
+- 🧠 本体大模型（Large Ontology Model, LOM）  
 - 🤖 本体驱动智能体（Ontology-Driven Agent）  
 - 🏢 企业级智能决策系统  
 - 🔗 大模型 × 知识图谱 × 仿真推演  
