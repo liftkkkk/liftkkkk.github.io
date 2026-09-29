@@ -25,7 +25,7 @@
 ## 🔥 当前研究重点
 
 - 🛰️ **态势感知与安全运营（Situational Awareness & Security Operations）**：以 Agentic AI 为方法论，构建感知—研判—响应的智能体工作流，驱动 Agent 执行任务、操作数据，支撑安全运营闭环
-- 🛡️ **Agentic AI 安全（Agentic AI Security）**：提示注入与越狱防御、工具调用安全、智能体红队评测、智能体行为监控与研判
+- 🛡️ **Agentic AI 安全（Agentic AI Security）**：智能体行为监控与研判、AIDR、智能体身份零信任
 
 **长期研究主线**：
 
